@@ -25,6 +25,8 @@ public class StartupRunner implements CommandLineRunner{
         //throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
         //ExpenseType newExpenseType = new ExpenseType(1,"test2",EnableFlag.NO);
         //expenseTypeRepository.save(newExpenseType);
+        //this part will filled about new default objects
+
     }
     
 }
